@@ -35,5 +35,7 @@ Ensure your file follows this structure and is encoded in UTF-8.
 
 ---
 
+## 🧪 Sample CSV Included
 
+A sample CSV file (`sample_input.csv`) is included in this repository for testing purposes.
 
