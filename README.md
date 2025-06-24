@@ -1,13 +1,13 @@
 # sales-prediction-streamlit
 Retail sales analysis and forecasting dashboard built with Streamlit and ARIMA.
 
-# 🛍️ Retail Sales Predictor
+## 🛍️ Retail Sales Predictor
 
 An interactive Streamlit application that analyzes historical retail sales data and predicts the next top 10 best-selling products using ARIMA time-series forecasting.
 
 ---
 
-## 📌 Features
+### 📌 Features
 
 - ✅ Upload CSV files containing retail sales data
 - ✅ Validates required columns:
@@ -24,7 +24,7 @@ An interactive Streamlit application that analyzes historical retail sales data 
 
 ---
 
-## 🧪 Sample CSV Format
+### 🧪 Sample CSV Format
 
 | date       | product_id | product_name | units_sold | total_amount |
 |------------|------------|--------------|------------|--------------|
@@ -35,7 +35,7 @@ Ensure your file follows this structure and is encoded in UTF-8.
 
 ---
 
-## 🧪 Sample CSV Included
+### 🧪 Sample CSV Included
 
-A sample CSV file (`sample_input.csv`) is included in this repository for testing purposes.
+A sample CSV file (expanded_retail_data) is included in this repository for testing purposes.
 
